@@ -1,39 +1,51 @@
-<h2 align="left">Bonsoir, strangers 👋! Meu nome é Pedro e eu sou um entusiasta dos gráficos diretamente do meu país RJ</h2>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd2Z2huZXQzcDFlOGRtcWEzZm5tMzY5Y3prejUxaGpoN3p0NXR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bonsoirpedro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonsoirpedro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd2Z2huZXQzcDFlOGRtcWEzZm5tMzY5Y3prejUxaGpoN3p0NXR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" />
 </div>
 
-###
+<h1 align="center">Salut 👋, je suis Pedro!</h1>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+---
 
-###
+### 💼 Sobre mim
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+- 🎓 Estudante de **Educação Física (UFRJ)** e **Big Data (IBMR)**
+- 🧠 Interesse em **dados**, **educação**, **inclusão social** e **tecnologia**
+- 📊 Experiência com **Excel**, **Python**, **SQL**, **VBA** e **Power BI**
+- 🌈 Atuação em projetos LGBTQIAP+ e inclusão no esporte
+- 🚀 Participante do programa **Oracle Next Education (ONE)**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonsoirpedro&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonsoirpedro&layout=compact&theme=radical" />
 </div>
 
-###
+---
 
-<br clear="both">
+### 📬 Contato
 
-<img src="https://raw.githubusercontent.com/bonsoirpedro/bonsoirpedro/output/snake.svg" alt="Snake animation" />
+- 💼 LinkedIn: [Bim-salabim-boom-zoom!](https://linkedin.com/in/pedro-rod-branco)
 
-###
+---
+
+> “Não sou só código. Sou corpo, sou arte, sou movimento — e quero transformar o mundo com isso.”  
+> — *Pedro*
+
