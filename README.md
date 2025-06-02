@@ -13,6 +13,7 @@
 - 🧠 Interesse em **dados**, **educação**, **inclusão social** e **tecnologia**
 - 📊 Experiência com **Excel**, **Python**, **SQL**, **VBA** e **Power BI**
 - 🌈 Atuação em projetos LGBTQIAP+ e inclusão no esporte
+- 🏀 Analista de desempenho no Irajá Atlético Clube
 - 🚀 Participante do programa **Oracle Next Education (ONE)**
 
 ---
